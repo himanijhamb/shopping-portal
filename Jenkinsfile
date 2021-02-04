@@ -1,4 +1,3 @@
-                                                                                                                                                                                                                                    bg                                                                                                                                                                                                                                    ~                                                                                                                  
 pipeline{
 
     agent any
